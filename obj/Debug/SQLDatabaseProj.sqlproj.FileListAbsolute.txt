@@ -1,5 +1,0 @@
-D:\Michael\Documents\Sources\SQLDatabaseProj\SQLDatabaseProj\bin\Debug\SQLDatabaseProj.dacpac
-D:\Michael\Documents\Sources\SQLDatabaseProj\SQLDatabaseProj\bin\Debug\SQLDatabaseProj.dll
-D:\Michael\Documents\Sources\SQLDatabaseProj\SQLDatabaseProj\bin\Debug\SQLDatabaseProj.pdb
-D:\Michael\Documents\Sources\SQLDatabaseProj\SQLDatabaseProj\obj\Debug\SQLDatabaseProj.dll
-D:\Michael\Documents\Sources\SQLDatabaseProj\SQLDatabaseProj\obj\Debug\SQLDatabaseProj.pdb
